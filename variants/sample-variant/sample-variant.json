@@ -1,0 +1,10 @@
+{
+	"name": "sample-variant",
+	"content": [
+		"sample-header.mjml",
+		"sample-component.mjml",
+		"sample-two-column.mjml",
+		"sample-footer.mjml"
+	],
+	"dateModified": "2022-08-04T01:49:12.384Z"
+}
